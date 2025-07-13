@@ -1,9 +1,12 @@
 # wireframing
 ## 💡Introduction
+
 These designs are usually well thought out, providing you with an idea of what the end product will look like and all the assets you will need for implementing the UI.
-### What is wireframe
+
+## 📌 What is wireframe
 Wireframing is a crucial step in the design process, serving as a blueprint or skeletal framework of a website or application
-# Importance of Wireframing in the Design Process
+
+## 🎈 Importance of Wireframing in the Design Process
 **Clarifies Ideas and Concepts:**
 Wireframing helps translate abstract ideas into tangible representations. It allows designers and stakeholders to visualize the layout and structure of a project early in the process.
 
